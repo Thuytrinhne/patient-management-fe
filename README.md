@@ -141,7 +141,8 @@ https://docs.google.com/document/d/1qS_FNeMV1ET0WMmXS-C8AspC77MiE0mUsBlE6t0WTFU/
 ## 2. Play with our live website
 
 Click on the [Link](https://fe-k1y5j9njc-natngocs-projects.vercel.app)
-
+Use: UserName: 21522719@gm.uit.edu.vn
+Password: Rj123456@
 # End 👋
 
 ---
