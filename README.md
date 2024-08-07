@@ -130,7 +130,7 @@ https://docs.google.com/document/d/1qS_FNeMV1ET0WMmXS-C8AspC77MiE0mUsBlE6t0WTFU/
     
 - [x] Unit testing (xunit+moq) for Controllers and main services
 
-- [ ] Rate limiting
+- [x] Rate limiting
 
 # Run Application ▶️
 
