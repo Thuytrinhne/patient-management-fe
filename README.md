@@ -106,7 +106,7 @@ https://docs.google.com/document/d/1qS_FNeMV1ET0WMmXS-C8AspC77MiE0mUsBlE6t0WTFU/
 
 - [x] Develop HTML & CSS templates
 
-- [x] Integrate APIs
+- [ ] Integrate APIs (A partial Api've just intergrarted)
 
 - [x] Enhance search performance on pages
 
@@ -127,7 +127,10 @@ https://docs.google.com/document/d/1qS_FNeMV1ET0WMmXS-C8AspC77MiE0mUsBlE6t0WTFU/
 - [x] Implement automatic backup
 
 - [x] Implement caching to enhance performance when querying 100K patients
+    
 - [x] Unit testing (xunit+moq) for Controllers and main services
+
+- [ ] Rate limiting
 
 # Run Application ▶️
 
